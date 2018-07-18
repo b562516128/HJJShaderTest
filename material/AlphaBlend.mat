@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: AlphaBlend
-  m_Shader: {fileID: 4800000, guid: 1edc76d50fb4946489cf3f3463757b4e, type: 3}
+  m_Shader: {fileID: 4800000, guid: 113681a12192a264f8408b1995ef426d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -57,6 +57,7 @@ Material:
     m_Floats:
     - _AlphaScale: 1
     - _BumpScale: 1
+    - _CutOff: 0.5
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
