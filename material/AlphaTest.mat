@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: AlphaTest
   m_Shader: {fileID: 4800000, guid: 113681a12192a264f8408b1995ef426d, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -57,7 +57,7 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _CutOff: 0.578
-    - _Cutoff: 0.582
+    - _Cutoff: 0.325
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
